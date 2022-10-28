@@ -1,7 +1,7 @@
 <h1 align="center">Let me introduce myself, I'm Ashmit Palit</h1>
 <h3 align="center">An enthusiastic, inquisitive, curious and prying technology 'geek'.</h3>
 
-[![rice.png](https://github.com/Ashmitpalit/Ashmitpalit/blob/main/Content%20Marketing%20Specialist.png)](https://piyushkrrai.web.app)
+[![rice.png](https://github.com/Ashmitpalit/Ashmitpalit/blob/main/banner.jpg)](https://piyushkrrai.web.app)
 
 <h3 align="center">About me:</h3>
 
