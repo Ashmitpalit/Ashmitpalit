@@ -1,4 +1,4 @@
-<h1 align="center">Hello There !! I'm Piyush Kumar Rai</h1>
+<h1 align="center">Hello There !! I'm Ashmit Palit</h1>
 <h3 align="center">A Student and an aspiring Engineer</h3>
 <h3 align="center"> <a href="https://piyushkrrai.web.app" target="blank"> Visit My Website here 🌐 </a> </h3> 
 
